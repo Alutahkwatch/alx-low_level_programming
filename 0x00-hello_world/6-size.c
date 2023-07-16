@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - A program that prints the sithe size of various types on the computer it is compiled and run on
+ * main - A program thatuses sizeof funtion
  * return 0 (sucessful)
  */
 int main(void)
