@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - A program thatuses sizeof funtion
- * return 0 (sucessful)
+ * main - print the size of data consumed per machine
+ * description: show bytes taken per machine
+ * Return: Always 0 (sucess)
  */
 int main(void)
 {
