@@ -8,14 +8,14 @@
 int main(void)
 {
 	int i;
-	int newline = '\n'
+	int newline = '\n';
 
 
 	for (i = 0; i < 10; i++)
 	{
 		putchar(i + '0');
 	}
-	putchar('\n');
+	putchar(newline);
 	return (0);
 
 }
